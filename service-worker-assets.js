@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-AUQGafOxglo8TBnXfTQvMaeIKYEPUfWDhocBNz9GahM=",
       "url": "404.html"
     },
@@ -541,5 +545,5 @@
       "url": "_content\/app.lib\/app.lib.bundle.scp.css"
     }
   ],
-  "version": "lmBTdjEs"
+  "version": "i4q+lP3C"
 };
