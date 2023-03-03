@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-AUQGafOxglo8TBnXfTQvMaeIKYEPUfWDhocBNz9GahM=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
       "url": "background.png"
     },
@@ -21,7 +25,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-9ZCliF\/D2iW17zGSctO6d5AJBQNfNWw8IwoK\/h2eufQ=",
+      "hash": "sha256-+jd80XmJs+i2PFA7cwma7oiBtVvaM0MZ\/DPlabd5omc=",
       "url": "index.html"
     },
     {
@@ -537,5 +541,5 @@
       "url": "_content\/app.lib\/app.lib.bundle.scp.css"
     }
   ],
-  "version": "CIw9WOkK"
+  "version": "rFyFrJMs"
 };
